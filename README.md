@@ -11,7 +11,7 @@
 ---
 
 ## Connect with me:
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/surya-prakash-r-b56451296/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/surya-prakash-r-b56451296/)) 
 
 ---
 
