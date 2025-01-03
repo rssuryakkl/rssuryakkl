@@ -1,10 +1,10 @@
-# Hi 👋 I am SURYA PRAKASH R
+# Hi 👋 I am SURYA PRAKASH R 🙋🏻‍♂️
 
 **Flutter Enthusiast and Developer**
 
 - 🛠️ I’m currently working on [Your Project Name](Project Link)
-- 🌱 I’m currently learning [Your Interest, e.g., Data Science]
-- 💬 Ask me about Flutter, Node.js, MongoDB, Java
+- 🌱 I’m currently learning [DevOps]
+- 💬 Ask me about C, Python 
 - 📫 How to reach me: [Your Email Address](mailto:YourEmail@example.com)
 - ⚡ Fun fact: [Your Fun Fact]
 
