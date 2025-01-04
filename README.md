@@ -20,6 +20,6 @@
 
 ## Most Used Languages:
 ![Python](https://img.shields.io/badge/Python-50.04%25-blue)
-![C ](https://img.shields.io/badge/C-1.60%25-red)
+![C ](https://img.shields.io/badge/C-61.60%25-red)
 ![JavaScript](https://img.shields.io/badge/JavaScript-39.10%25-yellow)
 ![C++](https://img.shields.io/badge/C++-1.62%25-green)
