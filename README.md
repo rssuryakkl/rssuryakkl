@@ -1,12 +1,9 @@
 # Hi 👋 I am SURYA PRAKASH R 🙋🏻‍♂️
 
-**Flutter Enthusiast and Developer**
-
 - 🛠️ I’m currently working on [-](Project Link)
-- 🌱 I’m currently learning DevOps
+- **🌱 Area of Interest in learning DevOps**
 - 💬 Ask me about C, Python 
 - 📫 How to reach me: rsuryaprakashb@gmail.com
-- ⚡ Fun fact: [Your Fun Fact]
 
 ---
 
