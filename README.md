@@ -1,4 +1,4 @@
-# Hi 👋 I am SURYA PRAKASH R 🙋🏻‍♂️
+# Hi 👋 I am Surya Prakash R 🙋🏻‍♂️
 
 - 🛠️ I’m currently working on [-](Project Link)
 - **🌱 Area of Interest in learning DevOps**
