@@ -1,25 +1,44 @@
-# Hi 👋 I am Surya Prakash R 🙋🏻‍♂️
+# vCard - Personal portfolio
 
-- 🛠️ I’m currently working on [-](Project Link)
-- **🌱 Area of Interest in learning DevOps**
-- 💬 Ask me about C, Python 
-- 📫 How to reach me: rsuryaprakashb@gmail.com
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
+![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
 
----
+vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-prakash-r-b56451296/)
+## Demo
 
----
+![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-## Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+## Prerequisites
 
----
+Before you begin, ensure you have met the following requirements:
 
-## Most Used Languages:
-![Python](https://img.shields.io/badge/Python-50.04%25-blue)
-![C ](https://img.shields.io/badge/C-61.60%25-red)
-![JavaScript](https://img.shields.io/badge/JavaScript-39.10%25-yellow)
-![C++](https://img.shields.io/badge/C++-1.62%25-green)
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
+## Installing vCard
+
+To install **vCard**, follow these steps:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+```
+
+## Contact
+
+If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
+
+## License
+
+MIT
